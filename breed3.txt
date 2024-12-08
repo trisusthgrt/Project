@@ -1,0 +1,5 @@
+Press 1 to select Golden Retreiver.
+Press 2 to select Poodle.
+Press 3 to select Siberian Husky.
+Press 4 to select German Shepherd.
+Press 5 to select Labrador Retriever.

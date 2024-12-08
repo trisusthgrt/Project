@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733654640 source:c:\users\asus\onedrive\desktop\pro\pro\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<windows.h>
+

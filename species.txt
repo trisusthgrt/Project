@@ -1,0 +1,5 @@
+Press 1 to select birds.
+
+Press 2 to select cats.
+
+press 3 to select dogs.

@@ -1,0 +1,6 @@
+Press 1 to select cockatiel.
+Press 2 to select Hyacinth Macaw.
+Press 3 to select Budgerigar.
+Press 4 to select Green Cheeked Conure.
+Press 5 to select Eclectus Parrot.
+hk
